@@ -1,4 +1,5 @@
 # Repository for the Course Acoustics Signal Processing
+#### For course contents and learning visit [acoustics Moodle](https://moodle.virtual-acoustics.org)  
 Acoustic Signal Processing is a discipline that deals with the extraction of information from different acoustic signals. The goal of this course is to extract information from acoustic signals despite surrounding noise or uncertainty and decipher the encoded information through digital mathematical models.  
 This course takes start from introducing the fundamental concepts in acoustics, by discussing the basic terms used in acoustics, and fundamentals of signal processing which are very important to understand before going into the details of the acoustics signal processing.
 
